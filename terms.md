@@ -1,7 +1,6 @@
+﻿![Assembly Education: Terms of Service](http://assembly.education/images/assembly-logo-afe63f47.png)
 
-![Assembly Education: Terms of Service](http://assembly.education/images/assembly-logo-afe63f47.png)
-
-#Terms of Service
+##Terms of Service
 
 Please read these Terms of Service carefully and in full before using any of our services.  If you do not agree to these Terms of Service, you should not use the Assembly Platform.
 While this is an important and legally-binding document, we’ve tried to keep these Terms of Service as readable and user-friendly as possible. We have, however, stuck to some conventional legal document practices (such as capitalisation of ‘You’ and ‘Us’ in relation to each party) where it’s helpful for clarity. 
