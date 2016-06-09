@@ -50,6 +50,7 @@ __You agree to:__
 * Have full responsibility for Your account, and the credentials related to your account, and ensure no unauthorised access to it
 * Only connect to the platform if You are able to do so in accordance with the Data Protection Act
 * Have full responsibility for who you choose to share your data with, and not to connect to any third party applications unless satisfied with their terms and conditions, and the privacy policies which govern them
+
 __You agree not to:__
 
 * Copy or share any of Our tools or content
