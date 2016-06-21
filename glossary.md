@@ -2,7 +2,7 @@
 
 ### Glossary of Terms
 
-__This document defines the terms we use throughout our [Terms and Conditions](https://github.com/assembly-edu/terms-of-service/blob/master/terms.md), [Privacy Statement](http://assembly.education/privacy/) and other Assembly documents:__
+__This document defines the terms we use throughout our [Terms and Conditions](https://github.com/assembly-edu/terms-of-service/blob/master/terms.md), [Privacy Statement](https://github.com/assembly-edu/terms-of-service/blob/master/privacy-statement.md) and other Assembly documents:__
 
 __Data Controller:__ the person, or organisation, who determines the purposes for which and the manner in which any personal data is processed.  With respect to the Assembly Platform the Data Controller is the School who connects to the Assembly Platform.
 
