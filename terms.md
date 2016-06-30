@@ -1,9 +1,7 @@
-﻿![Assembly Education: Terms of Service](http://assembly.education/images/assembly-logo-afe63f47.png)
-
-##Terms of Service
+﻿##Terms of Service
 
 Please read these Terms of Service carefully and in full before using any of our services.  If you do not agree to these Terms of Service, you should not use the Assembly Platform.
-While this is an important and legally-binding document, we’ve tried to keep these Terms of Service as readable and user-friendly as possible. We have, however, stuck to some conventional legal document practices (such as capitalisation of ‘You’ and ‘Us’ in relation to each party) where it’s helpful for clarity. 
+While this is an important and legally-binding document, we’ve tried to keep these Terms of Service as readable and user-friendly as possible. We have, however, stuck to some conventional legal document practices (such as capitalisation of ‘You’ and ‘Us’ in relation to each party) where it’s helpful for clarity.
 
 ###Glossary
 
@@ -28,7 +26,7 @@ __IP Address:__ A unique computer address that identifies you to the Internet, o
 
 ###What is Assembly?
 
-Assembly is a secure, cloud-based Platform that connects to your school’s Management Information System (MIS), extracts key elements of your school’s data, and stores it in a way that allows you to connect other applications to your data. These applications allow you to extend, analyse and aggregate data you collect and store in school.  
+Assembly is a secure, cloud-based Platform that connects to your school’s Management Information System (MIS), extracts key elements of your school’s data, and stores it in a way that allows you to connect other applications to your data. These applications allow you to extend, analyse and aggregate data you collect and store in school.
 These Terms of Service explain how we process your data, how we protect your data, and what we expect from you when you use our Platform.
 
 ###Who do these terms apply to?
@@ -71,7 +69,7 @@ __We agree to:__
 * Ensure that all staff having access to personal data hold a valid Disclosure and Barring Service certificate
 * Always maintain adequate liability insurance
 * Audit our services against this pledge every 12 months and provide evidence of compliance to the other party whenever requested
-* Report any breaches of security to The Data Controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the Data Controller, to Data Subjects 
+* Report any breaches of security to The Data Controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the Data Controller, to Data Subjects
 * Always notify You prior to connecting an Assembly Application which data that  Assembly Application needs access to, and allow You to accept or reject that request
 * Make Terms of Service and Privacy Policies clearly and publicly available on our websites
 
@@ -105,17 +103,17 @@ __7. Payment:__  Assembly offers a combination of free and paid‐for services. 
 
 __8. Disclaimer of Warranties:__  You accept that tools are provided on an “as is” and “as available” basis. They are provided without guarantees or warranties. Assembly makes no guarantee that the website or any of the tools are error free or that access will be continuous and uninterrupted.
 
-__9. Liability:__  We shall not, under any circumstances, be liable to You, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with this agreement for: loss of profits, sales, business, or revenue (direct or indirect); business interruption; loss of anticipated savings; loss or corruption of data or information; loss of business opportunity, goodwill or reputation; or, any indirect or consequential loss or damage. We are not excluding liability for death or personal injury caused by negligence, breach of any implied term and any other matter for which it would unlawful to exclude liability. 
+__9. Liability:__  We shall not, under any circumstances, be liable to You, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, arising under or in connection with this agreement for: loss of profits, sales, business, or revenue (direct or indirect); business interruption; loss of anticipated savings; loss or corruption of data or information; loss of business opportunity, goodwill or reputation; or, any indirect or consequential loss or damage. We are not excluding liability for death or personal injury caused by negligence, breach of any implied term and any other matter for which it would unlawful to exclude liability.
 
-__10. Third Party Assembly Applications:__  The Assembly Platform allows You to connect Your data to Third Parties. We have strict privacy and security criteria and require all Third Party Application Developers to sign up to our Third Party Developer Agreement.  As the Data Controller You are responsible for ensuring that You understand and agree to the terms of any Third Party Applications.  These Third Party Application terms will be made available to You via the Assembly Platform.  Whilst We aim to ensure strict standards of security and privacy within Third Party Applications, We are not liable for any Third Party Applications. We also accept no responsibility for any sums payable by You to any Third Party Application providers. 
+__10. Third Party Assembly Applications:__  The Assembly Platform allows You to connect Your data to Third Parties. We have strict privacy and security criteria and require all Third Party Application Developers to sign up to our Third Party Developer Agreement.  As the Data Controller You are responsible for ensuring that You understand and agree to the terms of any Third Party Applications.  These Third Party Application terms will be made available to You via the Assembly Platform.  Whilst We aim to ensure strict standards of security and privacy within Third Party Applications, We are not liable for any Third Party Applications. We also accept no responsibility for any sums payable by You to any Third Party Application providers.
 
 __11. Termination:__  We will suspend or restrict Your access to Our services if We have reason to believe You may have breached the conditions of this agreement.
 
 ##Security and Privacy
 
-Your privacy is our top priority, and We will not use Your data for anything other than what is set out in this agreement. 
+Your privacy is our top priority, and We will not use Your data for anything other than what is set out in this agreement.
 
-__1. Data Storage and Access:__  All personal and sensitive Assembly data is stored and transported within EEA or countries which are granted to have Adequate Levels of Protection as defined by the European Commission.  Internal access to information is limited to only those who require it to perform their jobs.  Other security safeguards include firewalls and physical building access controls.  We use role-based identities and password protection on all platform services and apps. 
+__1. Data Storage and Access:__  All personal and sensitive Assembly data is stored and transported within EEA or countries which are granted to have Adequate Levels of Protection as defined by the European Commission.  Internal access to information is limited to only those who require it to perform their jobs.  Other security safeguards include firewalls and physical building access controls.  We use role-based identities and password protection on all platform services and apps.
 
 __2. Security and Encryption:__  We have invested heavily in security and we use a suite of modern encryption methods to secure the data held within the Assembly Platform.  All our data is encrypted at rest.  We use additional field level encryption within the platform where We deem it necessary to protect the integrity of the data We store (for example, UPN).  All external data transmissions to and from the Assembly Platform are encrypted using modern SSL/TLS protocols and ciphers.  We capture IP addresses to ensure that our service is secure, for example from denial of service attacks.
 
@@ -145,25 +143,25 @@ If you have any questions or grievances in relation to security or privacy, plea
 
 ##Information for students and parents
 
-Assembly as the Data Processor only has access to pupil data as requested by the school as Data Controller and only for the purposes of performing services on a school’s behalf. 
+Assembly as the Data Processor only has access to pupil data as requested by the school as Data Controller and only for the purposes of performing services on a school’s behalf.
 Your child’s school remains the Data Controller of any pupil data we process. If you have questions about your or your child’s data or how your school is making use of services like Assembly, please contact the school directly.  Any pupil or parent/guardian enquiries we receive will be directed to the relevant school as the Data Controller for that child’s or parent’s/guardian’s data.
 
 ##Changes to the Terms of Service
 
-We are constantly updating and expanding our services. This means that sometimes we have to add to or modify the terms under which we offer our services.  If we make material changes, we will let you know via email before these changes take effect. We also keep a log of material changes at the bottom of this page. The email will designate a reasonable period of time after which the new terms will take effect. 
+We are constantly updating and expanding our services. This means that sometimes we have to add to or modify the terms under which we offer our services.  If we make material changes, we will let you know via email before these changes take effect. We also keep a log of material changes at the bottom of this page. The email will designate a reasonable period of time after which the new terms will take effect.
 If you disagree with the changes then you must discontinue your use of our service. Continuing to use our services constitutes agreement to the new terms, and your continued use will be subject to these terms.
 
 ##General
 
 If You do not comply with any part of this agreement, We reserve the right to suspend or terminate Your access to the Assembly platform with immediate effect.
 
-We and You both agree: 
+We and You both agree:
 
 * that no failure or delay to exercise any right or remedy under this agreement or by law shall constitute a waiver of that right or any other right or remedy.
 
-* that if any part of this agreement becomes invalid it will be modified to the minimum extent necessary to make it valid. If we cannot agree this with you, the relevant provision shall be deleted. Any modification to or deletion of a provision shall not affect the validity of the rest of the agreement. 
+* that if any part of this agreement becomes invalid it will be modified to the minimum extent necessary to make it valid. If we cannot agree this with you, the relevant provision shall be deleted. Any modification to or deletion of a provision shall not affect the validity of the rest of the agreement.
 
-* that any dispute or claim arising out of or relating to this agreement that cannot be resolved by negotiation within 14 days shall be resolved through arbitration. Either party shall give notice of seeking a resolution through arbitration using the CEDR procedure and English law. Either party may seek an interim remedy in court if necessary. 
+* that any dispute or claim arising out of or relating to this agreement that cannot be resolved by negotiation within 14 days shall be resolved through arbitration. Either party shall give notice of seeking a resolution through arbitration using the CEDR procedure and English law. Either party may seek an interim remedy in court if necessary.
 
 * that any dispute or claim arising out of or relating to this agreement shall be governed by the law of England and that the courts of England shall have exclusive jurisdiction provided that we can take action in other places if You are in breach of this agreement.
 

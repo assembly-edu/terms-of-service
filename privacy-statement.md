@@ -1,5 +1,3 @@
-![Assembly Education: Terms of Service](http://assembly.education/images/assembly-logo-afe63f47.png)
-
 # Privacy Statement
 
 This statement underpins the policies, promises and contracts we make with schools relating to the education data that Assembly processes.

@@ -1,5 +1,3 @@
-![Assembly Education: Terms of Service](http://assembly.education/images/assembly-logo-afe63f47.png)
-
 ### Glossary of Terms
 
 __This document defines the terms we use throughout our [Terms and Conditions](https://assembly.education/terms), [Privacy Statement](https://assembly.education/privacy) and other Assembly documents:__
