@@ -1,9 +1,9 @@
-﻿##Terms of Service
+﻿# Terms of Service
 
 Please read these Terms of Service carefully and in full before using any of our services.  If you do not agree to these Terms of Service, you should not use the Assembly Platform.
 While this is an important and legally-binding document, we’ve tried to keep these Terms of Service as readable and user-friendly as possible. We have, however, stuck to some conventional legal document practices (such as capitalisation of ‘You’ and ‘Us’ in relation to each party) where it’s helpful for clarity.
 
-###Glossary
+## Glossary
 
 __Data Controller:__ The person, or organisation, who determines the purposes for which and the manner in which any personal data is processed.  With respect to the Assembly Platform the Data Controller is the School who connects to the Assembly Platform.
 
@@ -24,12 +24,12 @@ __Third Party Developer Agreement:__ A pledge that we ask all third party develo
 __IP Address:__ A unique computer address that identifies you to the Internet, or your local network.
 
 
-###What is Assembly?
+## What is Assembly?
 
 Assembly is a secure, cloud-based Platform that connects to your school’s Management Information System (MIS), extracts key elements of your school’s data, and stores it in a way that allows you to connect other applications to your data. These applications allow you to extend, analyse and aggregate data you collect and store in school.
 These Terms of Service explain how we process your data, how we protect your data, and what we expect from you when you use our Platform.
 
-###Who do these terms apply to?
+## Who do these terms apply to?
 
 These Terms of Service are between You, a school, and Us, Assembly. These terms do not apply to third parties such as developers, pupils or parents.
 Whilst using the Assembly Platform You will send data to Us about Your school for Us to process on Your behalf. As a school, You are the Data Controller and Assembly is the Data Processor, and You will remain Data Controller at all times.  As a Data Controller it is therefore Your responsibility to ensure that You are able to engage with Assembly on these terms , and are able to allow us to process the data you control on behalf of Your Data Subjects.  You must not connect to the platform if You do not agree with these Terms of Service.
@@ -37,11 +37,12 @@ These Terms of Service apply only to the Assembly Connector and the Assembly Pla
 
 Assembly Applications, whether created by Assembly or a Third Party, are subject to their own Terms and Conditions and Policies.  Before You connect Assembly Applications to the Assembly Platform You must also ensure that You read, and agree to, such Assembly Application’s individual Terms and Conditions and Policies.
 
-##Summary Terms of Service
+## Summary Terms of Service
 
 __Here’s a brief summary of the things that we think are particularly important, both in terms of Our key commitments to You and Your responsibilities as a platform user:__
 
-__You agree to:__
+#### You agree to:
+
 * Only connect to the Assembly platform with the authorisation of the person with data protection responsibilities within your school (a role commonly referred to as ‘data protection lead’, likely to be the head teacher or a senior leader)
 
 * Retain Your responsibility as the Data Controller, and comply with the legal responsibilities it brings, over the data held within the platform, including its accuracy and completeness
@@ -49,14 +50,14 @@ __You agree to:__
 * Only connect to the platform if You are able to do so in accordance with the Data Protection Act
 * Have full responsibility for who you choose to share your data with, and not to connect to any third party applications unless satisfied with their terms and conditions, and the privacy policies which govern them
 
-__You agree not to:__
+#### You agree not to:
 
 * Copy or share any of Our tools or content
 * Use Our Intellectual Property (code, trademarks or other material) without Our consent
 * Do anything which adversely affects the security of the Platform, for example infecting it with viruses, Trojan horses or other similar harmful components that could affect or delay delivery of our services
 * Access, attempt to access, or inspect any data for which you do not have permission
 
-__We agree to:__
+#### We agree to:
 
 * Process the data received from You for the purposes of education and school improvement only, and only for those purposes necessary to provide the service explicitly offered to You
 * Adhere strictly to the terms of the Data Protection Act 1998 and any future amendments or applicable legislation
@@ -73,7 +74,7 @@ __We agree to:__
 * Always notify You prior to connecting an Assembly Application which data that  Assembly Application needs access to, and allow You to accept or reject that request
 * Make Terms of Service and Privacy Policies clearly and publicly available on our websites
 
-__We agree not to:__
+#### We agree not to:
 
 * Store or transport personal or sensitive data outside of the EEA or outside of countries which are granted to have Adequate Levels of Protection as defined by the European Commission
 * Share your data with any third parties except where explicitly requested by you or required by law.
@@ -83,10 +84,12 @@ __We agree not to:__
 * Share information with other third parties except where specifically agreed by the Data Controller or where required by law
 * Change any applicable terms of service without giving You the opportunity to opt-out of such changes
 
-##Detailed Terms of Service
+## Detailed Terms of Service
 
 Now, here’s a bit more detail on Our full terms in each area:
-__*#Restrictions and Responsibilities#*__
+
+#### Restrictions and Responsibilities
+
 __1. Connecting your MIS to the Platform:__ In order to use Our service, You will be providing access to information about Your school through Your Management Information System (MIS). It is Your responsibility to connect to the Platform in a properly authorised way. Assembly has access to Your school data only as requested by You, and only for the purposes of performing services on Your behalf.
 
 __2. Usage:__ Assembly exists to assist You in extending, analysing and aggregating Your data for the purposes of school improvement. You agree to use Our services for this purpose only.
@@ -109,7 +112,7 @@ __10. Third Party Assembly Applications:__  The Assembly Platform allows You to 
 
 __11. Termination:__  We will suspend or restrict Your access to Our services if We have reason to believe You may have breached the conditions of this agreement.
 
-##Security and Privacy
+#### Security and Privacy
 
 Your privacy is our top priority, and We will not use Your data for anything other than what is set out in this agreement.
 
@@ -137,21 +140,21 @@ __11. Communication:__  If you are a registered user of the Assembly website, or
 
 __12. Privacy or Security Breaches:__  We take all reasonable, necessary precautions to ensure that your data is secure and to recognise and then mitigate the risks to security and privacy.  However, it is not possible to 100% guarantee the security of any data transmitted or stored electronically.  In the event that a breach of security or privacy did occur, Assembly will contact the Data Controller, and inform the Information Commissioner’s Office (ICO) and other authorities if required by law.
 
-##Questions and Grievances
+## Questions and Grievances
 
 If you have any questions or grievances in relation to security or privacy, please email us on help@assembly.education.
 
-##Information for students and parents
+## Information for students and parents
 
 Assembly as the Data Processor only has access to pupil data as requested by the school as Data Controller and only for the purposes of performing services on a school’s behalf.
 Your child’s school remains the Data Controller of any pupil data we process. If you have questions about your or your child’s data or how your school is making use of services like Assembly, please contact the school directly.  Any pupil or parent/guardian enquiries we receive will be directed to the relevant school as the Data Controller for that child’s or parent’s/guardian’s data.
 
-##Changes to the Terms of Service
+## Changes to the Terms of Service
 
 We are constantly updating and expanding our services. This means that sometimes we have to add to or modify the terms under which we offer our services.  If we make material changes, we will let you know via email before these changes take effect. We also keep a log of material changes at the bottom of this page. The email will designate a reasonable period of time after which the new terms will take effect.
 If you disagree with the changes then you must discontinue your use of our service. Continuing to use our services constitutes agreement to the new terms, and your continued use will be subject to these terms.
 
-##General
+## General
 
 If You do not comply with any part of this agreement, We reserve the right to suspend or terminate Your access to the Assembly platform with immediate effect.
 
