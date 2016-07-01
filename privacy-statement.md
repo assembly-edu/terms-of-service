@@ -2,7 +2,7 @@
 
 This statement underpins the policies, promises and contracts we make with schools relating to the education data that Assembly processes.
 
-In conjunction with this document, you should read the [Glossary of Terms](https://assembly.education/privacy/glossary) used within this statement, and also elsewhere on our site.
+In conjunction with this document, you should read the [Glossary of Terms](http://assembly.education/privacy/glossary) used within this statement, and also elsewhere on our site.
 
 ### What is Assembly?
 
@@ -14,7 +14,7 @@ __1. Introduction__
 
 Privacy and security are at the heart of everything we do at Assembly. This statement explains the key measures we’ve put in place to ensure that a school’s data is kept secure and processed appropriately at all times. It also covers our commitments to you, and what we expect from schools in terms of privacy and data protection.
 
-For further detail, please refer to our full [Platform Terms of Service](https://assembly.education/terms), which provide a full explanation of how we process and protect data as well as what we require from schools to agree to before deciding to use our service.
+For further detail, please refer to our full [Platform Terms of Service](http://assembly.education/terms), which provide a full explanation of how we process and protect data as well as what we require from schools to agree to before deciding to use our service.
 
 __2. Our Principles__
 
@@ -32,7 +32,7 @@ __We:__
 * Audit our services against this pledge every 12 months and provide evidence of compliance to the other party whenever requested
 * Report any breaches of security to the tata controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the data controller, to data subjects
 * Always notify schools prior to connecting an Assembly application which data that  Assembly application needs access to, and allow you to accept or reject that request
-* Make the [Terms of Service](https://assembly.education/terms) and this Privacy Policy clearly and publicly available on our website
+* Make the [Terms of Service](http://assembly.education/terms) and this Privacy Policy clearly and publicly available on our website
 
 __We DO NOT:__
 
@@ -67,7 +67,7 @@ We retain personal data on our platform for as long as necessary to provide the 
 
 __6. Assembly and Third Party applications__
 
-We ask all Third Party Application Developers to sign up to our [Third Party Developer Agreement.](https://assembly.education/developer-agreement)
+We ask all Third Party Application Developers to sign up to our [Third Party Developer Agreement.](http://assembly.education/developer-agreement)
 
 Schools are responsible for accepting the terms and conditions of third party applications. We make these clearly available through the Assembly platform.
 
