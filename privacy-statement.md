@@ -1,10 +1,8 @@
-![Assembly Education: Terms of Service](http://assembly.education/images/assembly-logo-afe63f47.png)
-
 # Privacy Statement
 
 This statement underpins the policies, promises and contracts we make with schools relating to the education data that Assembly processes.
 
-In conjunction with this document, you should read the [Glossary of Terms](https://github.com/assembly-edu/terms-of-service/blob/master/glossary.md) used within this statement, and also elsewhere on our site.
+In conjunction with this document, you should read the [Glossary of Terms](http://assembly.education/privacy/glossary) used within this statement, and also elsewhere on our site.
 
 ### What is Assembly?
 
@@ -14,9 +12,9 @@ Assembly is a secure, cloud-based platform that connects to your school’s Mana
 
 __1. Introduction__
 
-Privacy and security are at the heart of everything we do at Assembly. This statement explains the key measures we’ve put in place to ensure that a school’s data is kept secure and processed appropriately at all times. It also covers our commitments to you, and what we expect from schools in terms of privacy and data protection. 
+Privacy and security are at the heart of everything we do at Assembly. This statement explains the key measures we’ve put in place to ensure that a school’s data is kept secure and processed appropriately at all times. It also covers our commitments to you, and what we expect from schools in terms of privacy and data protection.
 
-For further detail, please refer to our full [Platform Terms of Service](https://github.com/assembly-edu/terms-of-service/blob/master/terms.md), which provide a full explanation of how we process and protect data as well as what we require from schools to agree to before deciding to use our service.
+For further detail, please refer to our full [Platform Terms of Service](http://assembly.education/terms), which provide a full explanation of how we process and protect data as well as what we require from schools to agree to before deciding to use our service.
 
 __2. Our Principles__
 
@@ -28,13 +26,13 @@ __We:__
 * Transport and store all personal data originating from schools using modern and best practice encryption technologies.  This includes Secure Socket Layers (SSL/TLS) for encrypted data transfer over the internet, encryption of all data at rest, field-level encryption for personally identifiable data and password-protected identities for all end users
 * Comply with all Subject Access Requests made relating to the data We store
 * Only retain data for as long as required, and delete all your data if you ask us to do so, if you delete the connector or if your account becomes inactive.
-* Ensure that all data is held securely by taking steps so that data is not corrupted or lost 
+* Ensure that all data is held securely by taking steps so that data is not corrupted or lost
 * Ensure that all staff having access to personal data hold a valid Disclosure and Barring Service certificate
 * Always maintain adequate liability insurance
 * Audit our services against this pledge every 12 months and provide evidence of compliance to the other party whenever requested
-* Report any breaches of security to the tata controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the data controller, to data subjects 
+* Report any breaches of security to the tata controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the data controller, to data subjects
 * Always notify schools prior to connecting an Assembly application which data that  Assembly application needs access to, and allow you to accept or reject that request
-* Make the [Terms of Service](https://github.com/assembly-edu/terms-of-service/blob/master/terms.md) and this Privacy Policy clearly and publicly available on our website
+* Make the [Terms of Service](http://assembly.education/terms) and this Privacy Policy clearly and publicly available on our website
 
 __We DO NOT:__
 
@@ -52,7 +50,7 @@ We take every reasonable measure to ensure we store data securely. The Assembly 
 
 * All personal and sensitive Assembly data is stored and transported within EU or countries which are granted to have [Adequate Levels of Protection](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm) as defined by the European Commission
 * All external data transmissions to and from the Assembly Platform are encrypted using modern SSL/TLS protocols and ciphers
-* Encryption at rest i.e. when stored on a disk or laptop 
+* Encryption at rest i.e. when stored on a disk or laptop
 * Field level encryption in our database, where we feel it necessary to do so
 * We use encrypted passwords with variable permissions according to the user’s role are used for access to all sensitive information
 * All servers are situated in secure locations that comply with the Data Protection Act 1998
@@ -69,7 +67,7 @@ We retain personal data on our platform for as long as necessary to provide the 
 
 __6. Assembly and Third Party applications__
 
-We ask all Third Party Application Developers to sign up to our [Third Party Developer Agreement.](https://github.com/assembly-edu/terms-of-service/blob/master/developer-agreement.md)  
+We ask all Third Party Application Developers to sign up to our [Third Party Developer Agreement.](http://assembly.education/developer-agreement)
 
 Schools are responsible for accepting the terms and conditions of third party applications. We make these clearly available through the Assembly platform.
 
@@ -80,7 +78,7 @@ __7. Privacy or Security Breaches__
 We take all reasonable and necessary precautions to ensure that your data is secure and to recognise and then mitigate the risks to security and privacy.  However, it is not possible to 100% guarantee the security of any data transmitted or stored electronically.  In the event that a breach of security or privacy did occur, Assembly will contact Data Controller of the affected data, and inform the Information Commissioner’s Office (ICO), and other authorities, if required by law.
 
 
-### Information for students and parents 
+### Information for students and parents
 
 Assembly, as the Data Processor, only has access to pupil data as requested by the school, as Data Controller, and only for the purposes of performing services on a school’s behalf.
 
@@ -98,9 +96,9 @@ If you are a registered user of the Assembly website, or have expressed interest
 
 __10. Third Party Websites__
 
-We cannot be responsible for the privacy policies and practices of other sites even if you access them using links on our website. We recommend that you check the policy of each site you visit and contact the owner or operator if you have any questions or concerns. 
+We cannot be responsible for the privacy policies and practices of other sites even if you access them using links on our website. We recommend that you check the policy of each site you visit and contact the owner or operator if you have any questions or concerns.
 
-If you access our Website from a third party site, we cannot be responsible for the privacy policy and practice of that third party site and recommend that you check the policy of that third party site and contact the owner or operator if you have any questions or concerns.  
+If you access our Website from a third party site, we cannot be responsible for the privacy policy and practice of that third party site and recommend that you check the policy of that third party site and contact the owner or operator if you have any questions or concerns.
 
 ### Questions
 If you have any questions or grievances in relation to security or privacy, please email us on <hello@assembly.education>
