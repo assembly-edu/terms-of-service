@@ -95,6 +95,6 @@ You must comply with the following provisions when making your applications avai
 * be in contradiction of any legal duty owed to a third party;
 * misrepresent your organisation or yourself;
 * imply any representation by us.
-* You agree to notify us as soon as is practicable in the event you believe any Developer Property contained on the Platform does not * comply with the provisions of this clause in order that we may investigate whether it should be removed from the Platform or edited.
+* You agree to notify us as soon as is practicable in the event you believe any Developer Property contained on the Platform does not comply with the provisions of this clause in order that we may investigate whether it should be removed from the Platform or edited.
 
 
