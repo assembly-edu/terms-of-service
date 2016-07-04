@@ -1,28 +1,8 @@
 ﻿# Terms of Service
 
-Please read these Terms of Service carefully and in full before using any of our services.  If you do not agree to these Terms of Service, you should not use the Assembly Platform.
+Please read these Terms of Service carefully and in full before using any of our services. In conjunction with this document, you should also read the Glossary of Terms. If you do not agree to these Terms of Service, you should not use the Assembly Platform.
+
 While this is an important and legally-binding document, we’ve tried to keep these Terms of Service as readable and user-friendly as possible. We have, however, stuck to some conventional legal document practices (such as capitalisation of ‘You’ and ‘Us’ in relation to each party) where it’s helpful for clarity.
-
-## Glossary
-
-__Data Controller:__ The person, or organisation, who determines the purposes for which and the manner in which any personal data is processed.  With respect to the Assembly Platform the Data Controller is the School who connects to the Assembly Platform.
-
-__Data Processor:__  The person, or organisation, who processes the data on behalf of the Data Controller.  Assembly is a Data Processor of school data.
-
-__Data Subject:__ The individual who is the subject of the personal data.
-
-__Sensitive Personal Data:__ Data we hold which is deemed sensitive under the Data Protection Act (for example student ethnicity), or data which Assembly deems sensitive in relation to a pupil’s education (for example, exam results).
-
-__Assembly Platform:__ The core data storage and transfer database and interface which connects a school’s Management Information System (MIS) to other applications.
-
-__Assembly Connector:__ The program that schools must install to connect their Management Information System (MIS) to the Assembly Platform.
-
-__Assembly Applications:__ Applications built by Third Parties which connect to the Assembly Platform.  Some Assembly Applications may be built by Assembly.
-
-__Third Party Developer Agreement:__ A pledge that we ask all third party developers to sign up to in order to integrate with the Assembly Platform.
-
-__IP Address:__ A unique computer address that identifies you to the Internet, or your local network.
-
 
 ## What is Assembly?
 
