@@ -1,4 +1,4 @@
-### Glossary of Terms
+# Glossary of Terms
 
 __This document defines the terms we use throughout our [Terms and Conditions](http://assembly.education/terms), [Privacy Statement](http://assembly.education/privacy) and other Assembly documents:__
 

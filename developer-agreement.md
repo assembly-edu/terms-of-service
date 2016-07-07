@@ -1,4 +1,4 @@
-### Third Party Developer Agreement
+# Third Party Developer Agreement
 
 Assembly is committed to raising the standards of privacy and security applied to the management of education data.  In order to do this, we expect all Third Party Developers who connect to, or wish to connect to, the Assembly platform to sign and accept our Third Party Developer Agreement and comply with it at all times. You should also read this document in conjunction with our [Glossary of Terms](http://assembly.education/privacy/glossary/).
 
