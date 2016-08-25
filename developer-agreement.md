@@ -10,7 +10,7 @@ This agreement is between You, a Third Party Developer and Assembly Partner, and
 
 ## Our commitment to You
 
-Assembly are committed to providing the highest quality tools for the purposes of education and school improvement.  Therefore, with respect to data security and privacy, we will not ask you to accept anything that we ourselves are unable to accept.  Like you, we agree to comply with the Data Security and Privacy Pledge below.  Our [Terms of Service](https://github.com/assembly-edu/terms-of-service/blob/master/terms.md) incorporate the standards outlined in the pledge, as well as additional commitments that we make to schools.
+Assembly are committed to providing the highest quality tools for the purposes of education and school improvement.  Therefore, with respect to data security and privacy, we will not ask you to accept anything that we ourselves are unable to accept.  Like you, we agree to comply with the Data Security and Privacy Pledge below.  Our [Terms of Service](http://assembly.education/terms/) incorporate the standards outlined in the pledge, as well as additional commitments that we make to schools.
 
 ## Your commitment to Assembly
 
