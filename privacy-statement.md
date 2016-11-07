@@ -30,7 +30,7 @@ __We:__
 * Ensure that all staff having access to personal data hold a valid Disclosure and Barring Service certificate
 * Always maintain adequate liability insurance
 * Audit our services against this pledge every 12 months and provide evidence of compliance to the other party whenever requested
-* Report any breaches of security to the tata controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the data controller, to data subjects
+* Report any breaches of security to the data controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the data controller, to data subjects
 * Always notify schools prior to connecting an Assembly application which data that  Assembly application needs access to, and allow you to accept or reject that request
 * Make the [Terms of Service](http://assembly.education/terms) and this Privacy Policy clearly and publicly available on our website
 
