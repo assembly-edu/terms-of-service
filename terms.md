@@ -26,16 +26,16 @@ __Here’s a brief summary of the things that we think are particularly importan
 * Only connect to the Assembly platform with the authorisation of the person with data protection responsibilities within your school (a role commonly referred to as ‘data protection lead’, likely to be the head teacher or a senior leader)
 
 * Retain Your responsibility as the Data Controller, and comply with the legal responsibilities it brings, over the data held within the platform, including its accuracy and completeness
-* Have full responsibility for Your account, and the credentials related to your account, and ensure no unauthorised access to it
+* Have full responsibility for Your account, and the credentials related to Your account, and ensure no unauthorised access to it
 * Only connect to the platform if You are able to do so in accordance with the Data Protection Act
-* Have full responsibility for who you choose to share your data with, and not to connect to any third party applications unless satisfied with their terms and conditions, and the privacy policies which govern them
+* Have full responsibility for who You choose to share Your data with, and not connect to any third party applications unless satisfied with their terms and conditions, and the privacy policies which govern them
 
 #### You agree not to:
 
 * Copy or share any of Our tools or content
 * Use Our Intellectual Property (code, trademarks or other material) without Our consent
 * Do anything which adversely affects the security of the Platform, for example infecting it with viruses, Trojan horses or other similar harmful components that could affect or delay delivery of our services
-* Access, attempt to access, or inspect any data for which you do not have permission
+* Access, attempt to access, or inspect any data for which You do not have permission
 
 #### We agree to:
 
@@ -44,12 +44,12 @@ __Here’s a brief summary of the things that we think are particularly importan
 * Only store and process the minimum data required to provide Our services, and to inform you in advance of using any of our services what data that service requires.
 * Transport and store all personal data originating from schools using modern and best practice encryption technologies.  This includes Secure Socket Layers (SSL) for encrypted data transfer over the internet, encryption of all data at rest, field-level encryption for personally identifiable data and password-protected identities for all end users
 * Comply with all Subject Access Requests made relating to the data We store
-* Ensure the data We hold about you is correct
-* Only retain data for as long as required, and delete all your data if you ask us to do so, if you delete the connector, or if your account becomes inactive.
+* Ensure the data We hold about You is correct
+* Only retain data for as long as required, and delete all Your data if You ask us to do so, if You delete the connector, or if Your account becomes inactive.
 * Ensure that all data is held securely by taking steps to ensure that data is not corrupted or lost
 * Ensure that all staff having access to personal data hold a valid Disclosure and Barring Service certificate
 * Always maintain adequate liability insurance
-* Audit our services against this pledge every 12 months and provide evidence of compliance to the other party whenever requested
+* Audit Our services against this pledge every 12 months and provide evidence of compliance to the other party whenever requested
 * Report any breaches of security to The Data Controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the Data Controller, to Data Subjects
 * Always notify You prior to connecting an Assembly Application which data that  Assembly Application needs access to, and allow You to accept or reject that request
 * Make Terms of Service and Privacy Policies clearly and publicly available on our website
@@ -57,7 +57,7 @@ __Here’s a brief summary of the things that we think are particularly importan
 #### We agree not to:
 
 * Store or transport personal or sensitive data outside of the EEA or outside of countries which are granted to have [Adequate Levels of Protection](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm) as defined by the European Commission
-* Share your data with any third parties except where explicitly requested by you or required by law.
+* Share Your data with any third parties except where explicitly requested by you or required by law.
 * Use Your data, made available via the Assembly platform, for the purposes of advertising or marketing, or for any purpose other than the service explicitly provided to You
 * Transport personal data originating from You in an unencrypted format
 * Claim ownership or exclusive rights over any of the data processed or created as part of services provided to You
@@ -114,9 +114,9 @@ __8. Deleting and Retaining Data:__  We retain Your data on Our platform for as 
 
 __9. Permission:__  As the Data Controller, it is Your responsibility to ensure that You can engage with Assembly in accordance with the Data Protection Act and that Data Subjects are suitably informed about Data Processing services such as Assembly, that the school chooses to use.
 
-__10. Cookies:__  A cookie is a string of information that a website stores on a visitor’s computer. Assembly uses cookies for purposes such as helping us to identify and track visitors’ usage and preferences. You can disable cookies in your browser if you wish to, although this may mean that some features of our website do not work as they should.
+__10. Cookies:__  A cookie is a string of information that a website stores on a visitor’s computer. Assembly uses cookies for purposes such as helping us to identify and track visitors’ usage and preferences. You can disable cookies in Your browser if you wish to, although this may mean that some features of our website do not work as they should.
 
-__11. Communication:__  If you are a registered user of the Assembly website, or have expressed interest in Assembly on the Assembly website and have supplied your email address, we may occasionally send you an email to tell you about new features, ask for feedback or keep you up to date with our products. If you no longer wish to be included on these communications, then please email [help@assembly.education](mailto:help@assembly.education) and we will remove you from the list.
+__11. Communication:__  If You are a registered user of the Assembly website, or have expressed interest in Assembly on the Assembly website and have supplied Your email address, we may occasionally send You an email to tell you about new features, ask for feedback or keep You up to date with our products. If You no longer wish to be included on these communications, then please email [help@assembly.education](mailto:help@assembly.education) and we will remove You from the list.
 
 __12. Privacy or Security Breaches:__  We take all reasonable, necessary precautions to ensure that your data is secure and to recognise and then mitigate the risks to security and privacy.  However, it is not possible to 100% guarantee the security of any data transmitted or stored electronically.  In the event that a breach of security or privacy did occur, Assembly will contact the Data Controller, and inform the Information Commissioner’s Office (ICO) and other authorities if required by law.
 
