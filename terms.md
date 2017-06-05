@@ -6,16 +6,13 @@ While this is an important and legally-binding document, we’ve tried to keep t
 
 ## What is No More Marking?
 
-Assembly is a secure, cloud-based Platform that connects to your school’s Management Information System (MIS), extracts key elements of your school’s data, and stores it in a way that allows you to connect other applications to your data. These applications allow you to extend, analyse and aggregate data you collect and store in school.
-These Terms of Service explain how we process your data, how we protect your data, and what we expect from you when you use our Platform.
+No More Marking is a secure, cloud-based platform that allows schools to assess open-ended work by setting up tasks on paper, then scanning and uploading them before judges perform pair wise comparisons of the work.
 
 ## Who do these terms apply to?
 
-These Terms of Service are between You, a school, and Us, Assembly. These terms do not apply to third parties such as developers, pupils or parents.
-Whilst using the Assembly Platform You will send data to Us about Your school for Us to process on Your behalf. As a school, You are the Data Controller and Assembly is the Data Processor, and You will remain Data Controller at all times.  As a Data Controller it is therefore Your responsibility to ensure that You are able to engage with Assembly on these terms , and are able to allow us to process the data you control on behalf of Your Data Subjects.  You must not connect to the platform if You do not agree with these Terms of Service.
-These Terms of Service apply only to the Assembly Connector and the Assembly Platform.  The Assembly Platform stores the MIS data You send Us, and also stores data which is passed back to it from Assembly Applications. However, __these terms do not apply to the processing of data by the Assembly Applications that you can connect to the Assembly Platform.__
-
-Assembly Applications, whether created by Assembly or a Third Party, are subject to their own Terms and Conditions and Policies.  Before You connect Assembly Applications to the Assembly Platform You must also ensure that You read, and agree to, such Assembly Application’s individual Terms and Conditions and Policies.
+These Terms of Service are between You, a school, and Us, No More Marking. These terms do not apply to third parties such as pupils or parents.
+Whilst using the No More Marking system You will send data to Us about Your school for Us to process on Your behalf. As a school, You are the Data Controller and No More Marking is the Data Processor, and You will remain Data Controller at all times.  As a Data Controller it is therefore Your responsibility to ensure that You are able to engage with No More Marking on these terms, and are able to allow us to process the data you control on behalf of Your Data Subjects.  You must not connect to the platform if You do not agree with these Terms of Service.
+These Terms of Service apply only to the Assembly Connector and the No More Marking system.  The No More Marking system stores the data You send Us.
 
 ## Summary Terms of Service
 
@@ -23,8 +20,7 @@ __Here’s a brief summary of the things that we think are particularly importan
 
 #### You agree to:
 
-* Only connect to the Assembly platform with the authorisation of the person with data protection responsibilities within your school (a role commonly referred to as ‘data protection lead’, likely to be the head teacher or a senior leader)
-
+* Only connect to the No More Marking system with the authorisation of the person with data protection responsibilities within your school (a role commonly referred to as ‘data protection lead’, likely to be the head teacher or a senior leader)
 * Retain Your responsibility as the Data Controller, and comply with the legal responsibilities it brings, over the data held within the platform, including its accuracy and completeness
 * Have full responsibility for Your account, and the credentials related to Your account, and ensure no unauthorised access to it
 * Only connect to the platform if You are able to do so in accordance with the Data Protection Act
@@ -34,7 +30,7 @@ __Here’s a brief summary of the things that we think are particularly importan
 
 * Copy or share any of Our tools or content
 * Use Our Intellectual Property (code, trademarks or other material) without Our consent
-* Do anything which adversely affects the security of the Platform, for example infecting it with viruses, Trojan horses or other similar harmful components that could affect or delay delivery of our services
+* Do anything which adversely affects the security of the system, for example infecting it with viruses, Trojan horses or other similar harmful components that could affect or delay delivery of our services
 * Access, attempt to access, or inspect any data for which You do not have permission
 
 #### We agree to:
@@ -42,10 +38,10 @@ __Here’s a brief summary of the things that we think are particularly importan
 * Process the data received from You for the purposes of education and school improvement only, and only for those purposes necessary to provide the service explicitly offered to You
 * Adhere strictly to the terms of the Data Protection Act 1998 and any future amendments or applicable legislation
 * Only store and process the minimum data required to provide Our services, and to inform you in advance of using any of our services what data that service requires.
-* Transport and store all personal data originating from schools using modern and best practice encryption technologies.  This includes Secure Socket Layers (SSL) for encrypted data transfer over the internet, encryption of all data at rest, field-level encryption for personally identifiable data and password-protected identities for all end users
+* Transport and store all personal data originating from schools using modern and best practice encryption technologies.  This includes Secure Socket Layers (SSL) for encrypted data transfer over the internet, field-level encryption for personally identifiable data and password-protected identities for all end users
 * Comply with all Subject Access Requests made relating to the data We store
 * Ensure the data We hold about You is correct
-* Only retain data for as long as required, and delete all Your data if You ask us to do so, if You delete the connector, or if Your account becomes inactive.
+* Only retain data for as long as required, and delete all Your data if You ask us to do so or if Your account becomes inactive.
 * Ensure that all data is held securely by taking steps to ensure that data is not corrupted or lost
 * Ensure that all staff having access to personal data hold a valid Disclosure and Barring Service certificate
 * Always maintain adequate liability insurance
@@ -58,7 +54,7 @@ __Here’s a brief summary of the things that we think are particularly importan
 
 * Store or transport personal or sensitive data outside of the EEA or outside of countries which are granted to have [Adequate Levels of Protection](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm) as defined by the European Commission
 * Share Your data with any third parties except where explicitly requested by you or required by law.
-* Use Your data, made available via the Assembly platform, for the purposes of advertising or marketing, or for any purpose other than the service explicitly provided to You
+* Use Your data, made available via the No More Marking system, for the purposes of advertising or marketing, or for any purpose other than the service explicitly provided to You
 * Transport personal data originating from You in an unencrypted format
 * Claim ownership or exclusive rights over any of the data processed or created as part of services provided to You
 * Share information with other third parties except where specifically agreed by the Data Controller or where required by law
@@ -70,9 +66,9 @@ Now, here’s a bit more detail on Our full terms in each area:
 
 #### Restrictions and Responsibilities
 
-__1. Connecting your MIS to the Platform:__ In order to use Our service, You will be providing access to information about Your school through Your Management Information System (MIS). It is Your responsibility to connect to the Platform in a properly authorised way. Assembly has access to Your school data only as requested by You, and only for the purposes of performing services on Your behalf.
+__1. [REMOVE?] Connecting your MIS to the Platform:__ In order to use Our service, You will be providing access to information about Your school through Your Management Information System (MIS). It is Your responsibility to connect to the Platform in a properly authorised way. Assembly has access to Your school data only as requested by You, and only for the purposes of performing services on Your behalf.
 
-__2. Usage:__ Assembly exists to assist You in extending, analysing and aggregating Your data for the purposes of school improvement. You agree to use Our services for this purpose only.
+__2. [CHANGE]Usage:__ Assembly exists to assist You in extending, analysing and aggregating Your data for the purposes of school improvement. You agree to use Our services for this purpose only.
 
 __3. Data Ownership:__  When You decide to use Our Platform, You as the school will remain the Data Controller. We process the data on Your behalf, in the manner You have requested. You remain responsible for your data, including any inaccuracies or changes that need to be made. Your responsibility as Data Controller covers all of Your school’s data on the platform. This includes both data extracted from the MIS, and new data created by using the Assembly platform and the Third Party Applications it connects to.
 
@@ -122,7 +118,7 @@ __12. Privacy or Security Breaches:__  We take all reasonable, necessary precaut
 
 ## Questions and Grievances
 
-If you have any questions or grievances in relation to security or privacy, please email us on [help@assembly.education](mailto:help@assembly.education).
+If you have any questions or grievances in relation to security or privacy, please email us on [support@nomoremarking.com](mailto:support@nomoremarking.com).
 
 ## Information for students and parents
 
