@@ -1,10 +1,10 @@
 ﻿# Terms of Service
 
-Please read these Terms of Service carefully and in full before using any of our services. In conjunction with this document, you should also read the [Glossary of Terms](http://assembly.education/policies/glossary/). If you do not agree to these Terms of Service, you should not use the Assembly Platform.
+Please read these Terms of Service carefully and in full before using any of our services. In conjunction with this document, you should also read the [Glossary of Terms](https://www.nomoremarking.com/policies/glossary/). If you do not agree to these Terms of Service, you should not use the No More Marking system.
 
 While this is an important and legally-binding document, we’ve tried to keep these Terms of Service as readable and user-friendly as possible. We have, however, stuck to some conventional legal document practices (such as capitalisation of ‘You’ and ‘Us’ in relation to each party) where it’s helpful for clarity.
 
-## What is Assembly?
+## What is No More Marking?
 
 Assembly is a secure, cloud-based Platform that connects to your school’s Management Information System (MIS), extracts key elements of your school’s data, and stores it in a way that allows you to connect other applications to your data. These applications allow you to extend, analyse and aggregate data you collect and store in school.
 These Terms of Service explain how we process your data, how we protect your data, and what we expect from you when you use our Platform.
