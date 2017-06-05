@@ -37,7 +37,7 @@ __Here’s a brief summary of the things that we think are particularly importan
 
 * Process the data received from You for the purposes of education and school improvement only, and only for those purposes necessary to provide the service explicitly offered to You
 * Adhere strictly to the terms of the Data Protection Act 1998 and any future amendments or applicable legislation
-* Only store and process the minimum data required to provide Our services, and to inform you in advance of using any of our services what data that service requires. Information stored are: UPN (optional), First Name, Last Name, Date of Birth, Gender, Group (teaching/registration class, optional) and Pupil Premium (optional)
+* Only store and process the minimum data required to provide Our services, and to inform you in advance of using any of our services what data that service requires. Information stored are: __UPN__ (optional), __First Name__, __Last Name__, __Date of Birth__, __Gender__, __Group__ (teaching/registration class, optional) and __Pupil Premium__ (optional)
 * Transport and store all personal data originating from schools using modern and best practice encryption technologies.  This includes Secure Socket Layers (SSL) for encrypted data transfer over the internet, field-level encryption for personally identifiable data and password-protected identities for all end users
 * Comply with all Subject Access Requests made relating to the data We store
 * Ensure the data We hold about You is correct
