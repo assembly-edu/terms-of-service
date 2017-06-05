@@ -10,13 +10,4 @@ __Data Subject:__ the individual who is the subject of the personal data.
 
 __Sensitive Personal Data:__ Data we hold which is deemed sensitive under the Data Protection Act (for example student name or ethnicity), or data which Assembly deems sensitive in relation to a pupil’s education (for example, exam results).
 
-__Assembly Platform:__ The core data storage and transfer database and interface which connects a school’s Management Information System (MIS) to other applications.
-
-__Assembly Connector:__ The program that schools must install, to connect their Management Information System (MIS) to the Assembly Platform.
-
-__Assembly Applications:__ Applications built by Third Parties which connect to the Assembly Platform.  Some Assembly Applications may be built by Assembly.
-
-__Developer Agreement:__ A [pledge](http://assembly.education/developer-agreement) that we ask all third party developers to sign up to in order to integrate with the Assembly Platform.
-
 __IP Address:__ A unique computer address that identifies you to the Internet, or your local network.
-
