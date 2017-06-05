@@ -12,7 +12,7 @@ No More Marking is a secure, cloud-based platform that allows schools to assess 
 
 These Terms of Service are between You, a school, and Us, No More Marking. These terms do not apply to third parties such as pupils or parents.
 Whilst using the No More Marking system You will send data to Us about Your school for Us to process on Your behalf. As a school, You are the Data Controller and No More Marking is the Data Processor, and You will remain Data Controller at all times.  As a Data Controller it is therefore Your responsibility to ensure that You are able to engage with No More Marking on these terms, and are able to allow us to process the data you control on behalf of Your Data Subjects.  You must not connect to the platform if You do not agree with these Terms of Service.
-These Terms of Service apply only to the Assembly Connector and the No More Marking system.  The No More Marking system stores the data You send Us.
+These Terms of Service apply only to the No More Marking system.  The No More Marking system stores the data You send Us.
 
 ## Summary Terms of Service
 
