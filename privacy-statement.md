@@ -4,17 +4,17 @@ This statement underpins the policies, promises and contracts we make with schoo
 
 In conjunction with this document, you should read the [Glossary of Terms](http://assembly.education/privacy/glossary) used within this statement, and also elsewhere on our site.
 
-### What is Assembly?
+### What is No More Marking?
 
-Assembly is a secure, cloud-based platform that connects to your school’s Management Information System (MIS) and extracts key elements of your school’s data and stores it in a way that allows you to connect other applications to your data.  These applications allow you to extend, analyse and aggregate data you collect and store in school.
+No More Marking is a secure, cloud-based platform that allows schools to assess open-ended work by setting up tasks on paper, then scanning and uploading them before judges perform pair wise comparisons of the work.
 
 ### Privacy and Data Protection Statement
 
 __1. Introduction__
 
-Privacy and security are at the heart of everything we do at Assembly. This statement explains the key measures we’ve put in place to ensure that a school’s data is kept secure and processed appropriately at all times. It also covers our commitments to you, and what we expect from schools in terms of privacy and data protection.
+Privacy and security are at the heart of everything we do at No More Marking. This statement explains the key measures we’ve put in place to ensure that a school’s data is kept secure and processed appropriately at all times. It also covers our commitments to you, and what we expect from schools in terms of privacy and data protection.
 
-For further detail, please refer to our full [Platform Terms of Service](http://assembly.education/terms), which provide a full explanation of how we process and protect data as well as what we require from schools to agree to before deciding to use our service.
+For further detail, please refer to our full [Platform Terms of Service](https://www.nomoremarking.com/terms), which provide a full explanation of how we process and protect data as well as what we require from schools to agree to before deciding to use our service.
 
 __2. Our Principles__
 
@@ -23,8 +23,8 @@ __We:__
 * Process the data received from schools for the purposes of education and school improvement only, and only for those purposes necessary to provide the service explicitly offered to schools
 * Adhere strictly to the terms of the Data Protection Act 1998 and any future amendments or applicable legislation
 * Only store and process the minimum data required to provide our services, and to inform you in advance of using any of our services what data that service requires.
-* Transport and store all personal data originating from schools using modern and best practice encryption technologies.  This includes Secure Socket Layers (SSL/TLS) for encrypted data transfer over the internet, encryption of all data at rest, field-level encryption for personally identifiable data and password-protected identities for all end users
-* Comply with all Subject Access Requests made relating to the data We store
+* Transport and store all personal data originating from schools using modern and best practice encryption technologies.  This includes Secure Socket Layers (SSL/TLS) for encrypted data transfer over the internet, field-level encryption for personally identifiable data and password-protected identities for all end users
+* Comply with all Subject Access Requests made relating to the data we store
 * Only retain data for as long as required, and delete all your data if you ask us to do so, if you delete the connector or if your account becomes inactive.
 * Ensure that all data is held securely by taking steps so that data is not corrupted or lost
 * Ensure that all staff having access to personal data hold a valid Disclosure and Barring Service certificate
@@ -32,13 +32,13 @@ __We:__
 * Audit our services against this pledge every 12 months and provide evidence of compliance to the other party whenever requested
 * Report any breaches of security to the data controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the data controller, to data subjects
 * Always notify schools prior to connecting an Assembly application which data that  Assembly application needs access to, and allow you to accept or reject that request
-* Make the [Terms of Service](http://assembly.education/terms) and this Privacy Policy clearly and publicly available on our website
+* Make the [Terms of Service](https://www.nomoremarking.com/terms) and this Privacy Policy clearly and publicly available on our website
 
 __We DO NOT:__
 
 * Store or transport personal or sensitive data outside of the EU or outside of countries which are granted to have [Adequate Levels of Protection](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm) as defined by the European Commission
 * Share your data with any third parties except where explicitly requested by you or required by law.
-* Use Your data, made available via the Assembly platform, for the purposes of advertising or marketing, or for any purpose other than the service explicitly provided to You
+* Use Your data for the purposes of advertising or marketing, or for any purpose other than the service explicitly provided to You
 * Transport personal data originating from schools in an unencrypted format
 * Claim ownership or exclusive rights over any of the data processed or created as part of services provided to You
 * Share information with other third parties except where specifically agreed by the Data Controller or where required by law
