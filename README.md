@@ -6,4 +6,4 @@ It designed for historical change tracking and not the recommended way for end u
 
 If you wish to explore our policies we recommend you view them on our website instead.
 
-## [Browse our Terms & Conditions here...](http://assembly.education/terms)
+## [Browse our Terms & Conditions here...](https://www.nomoremarking.com/terms)
