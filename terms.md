@@ -47,7 +47,6 @@ __Here’s a brief summary of the things that we think are particularly importan
 * Always maintain adequate liability insurance
 * Audit Our services against this pledge every 12 months and provide evidence of compliance to the other party whenever requested
 * Report any breaches of security to The Data Controller, the Information Commissioner’s Office (ICO) and other authorities if required by law, and, in co-operation with the Data Controller, to Data Subjects
-* Always notify You prior to connecting an Assembly Application which data that  Assembly Application needs access to, and allow You to accept or reject that request
 * Make Terms of Service and Privacy Policies clearly and publicly available on our website
 
 #### We agree not to:
