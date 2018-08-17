@@ -23,3 +23,5 @@ __Assembly Applications:__ Applications built by Third Parties which connect to 
 __Developer Agreement:__ A [pledge](http://assembly.education/developer-agreement) that we ask all third party developers to sign up to in order to integrate with the Assembly Platform.
 
 __IP Address:__ A unique computer address that identifies you to the Internet, or your local network.
+
+__School:__ All references to a school may refer either to an individual school or multiple schools, where those schools are joined together in a legal entity such as a Multi Academy Trust.
