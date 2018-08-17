@@ -11,7 +11,7 @@ These Terms of Service explain how we process your data, how we protect your dat
 
 ## Who do these terms apply to?
 
-These Terms of Service are between You, a school, and Us, Assembly. These terms do not apply to third parties such as developers, pupils or parents.
+These Terms of Service are between You, a school or MAT, and Us, Assembly. These terms do not apply to third parties such as developers, pupils or parents.
 Whilst using the Assembly Platform You will send data to Us about Your school for Us to process on Your behalf. As a school, You are the Data Controller and Assembly is the Data Processor, and You will remain Data Controller at all times.  As a Data Controller it is therefore Your responsibility to ensure that You are able to engage with Assembly on these terms , and are able to allow us to process the data you control on behalf of Your Data Subjects.  You must not connect to the platform if You do not agree with these Terms of Service.
 These Terms of Service apply only to the Assembly Connector and the Assembly Platform.  The Assembly Platform stores the MIS data You send Us, and also stores data which is passed back to it from Assembly Applications. However, __these terms do not apply to the processing of data by the Assembly Applications that you can connect to the Assembly Platform.__
 
@@ -129,6 +129,8 @@ __3. Third Parties:__  We will share information if required to do so by law.  W
 
 __4. Data sharing permissions for Third Party Applications:__  Scopes are small groups of related data.  Where an application requires data from the Assembly Platform, We require Third Party Applications to request only the minimum number of scopes that are necessary and We only share the scopes of data that are required by the particular application.  For example, if a particular application only needs pupil lists, then this is the only scope of data to which a Third Party Application will have access.  We will always separate sensitive data into a defined scope so you are specifically aware if sensitive data is being requested by an Assembly Application. When you first install the connector it will gather some non-sensitive metadata about your school, e.g. number of yeargroups. This data is non-sensitive and non-identifiable, and is necessary for the connector to function.
 
+We also allow Third Party Applications to check Your School Connection Status before You authorise the Application to access any of your data. Your School Connection Status does not contain any personal data, and is necessary for certain parts of the Assembly Platform to function, and is solely a confirmation to the Application that you are a School that uses the Assembly Platform, and that the Application will be able to transfer your data to the Assembly Application via the Assembly Platform if you give the permission to do so.
+
 __5. IP Addresses:__ We only ever collect users’ full IP addresses for essential security management (for example, the prevention of Distributed Denial of Service attacks) and essential user support (for example, browser session tracking in order to spot and fix errors). Where possible, we opt to collect masked IP addresses.
 
 __6. Data sharing permissions relating to the platform:__ In some limited circumstances We may collect data through third party services. For example, we may use website analytics traffic providers to analyse metadata such as platform usage. Where We do this, We audit the service to ensure they have a similarly high level of commitment to security and privacy, and comply with all Data Protection Legislation. Assembly may also collect, analyse or make available non-personal and non-sensitive data to third parties (for example aggregated or non-identifiable data) for school improvement purposes.  We do not use or analyse this aggregate data in any way which would make data identifiable at an individual or school level. See our <a href='https://help.assembly.education/article/40-data-privacy' target='_blank'>Data Privacy FAQs</a> for an up-to-date list of third party services currently used by Assembly to collect data.
@@ -158,7 +160,7 @@ Your child’s school remains the Data Controller of any individual’s data we 
 
 ## Changes to the Terms of Service
 
-We are constantly updating and expanding our services. This means that sometimes we have to add to or modify the terms under which we offer our services.  If we make material changes, we will let you know via email before these changes take effect. We also keep a log of material changes at the bottom of this page. The email will designate a reasonable period of time after which the new terms will take effect.
+We are constantly updating and expanding our services. This means that sometimes we have to add to or modify the terms under which we offer our services.  If we make material changes, we will let you know via email before these changes take effect. We also keep a full log of changes on [GitHub](https://github.com/assembly-edu/terms-of-service/). The email will designate a reasonable period of time after which the new terms will take effect.
 
 If you disagree with the changes then you must discontinue your use of our service. Continuing to use our services constitutes agreement to the new terms, and your continued use will be subject to these terms.
 
