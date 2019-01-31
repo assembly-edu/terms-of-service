@@ -128,4 +128,4 @@ We cannot be responsible for the privacy policies and practices of other sites e
 If you access our Website from a third party site, we cannot be responsible for the privacy policy and practice of that third party site and recommend that you check the policy of that third party site and contact the owner or operator if you have any questions or concerns.
 
 ### Questions and Grievances
-Our Data Protection Officer is listed on the About Us page of our website. If you have any questions or grievances in relation to security or privacy, please email us on <dataprotection@arkonline.org>.
+If you have any questions or grievances in relation to security or privacy, please email us on help@assembly.education.
