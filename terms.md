@@ -103,7 +103,7 @@ __3. Data Ownership:__  When You decide to use Our Platform You as the school wi
 
 __4. Account Security:__  If You decide to use the Assembly platform then You are responsible for maintaining the security of Your account and are fully responsible for all of the actions in relation to it. The platform is for the sole use of those who have the necessary permission to access this data, and it is Your responsibility to ensure that Your account is secure and that access is restricted solely to those with the required permission. You must immediately notify Us in the event of unauthorised access to Your account or any other breaches of security.
 
-__5. Ownership of IP:__  Unless We specifically designate an aspect of the Platform as open source, the Assembly platform and all associated Intellectual Property remain the property of Assembly, a subsidiary of Ark UK Programmes.
+__5. Ownership of IP:__  Unless We specifically designate an aspect of the Platform as open source, the Assembly platform and all associated Intellectual Property remain the property of Assembly, a divison of GroupCall Limited.
 
 __6. Modification of Services:__  As an organisation that is constantly growing and improving, it may sometimes be necessary to modify Our services. We may occasionally pause or remove particular tools or services at Our sole discretion and we will give notice of any modifications before implementation where practicable or as soon afterwards as practicable.
 
