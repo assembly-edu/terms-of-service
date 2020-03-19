@@ -22,7 +22,7 @@ __We:__
 
 * Process the data received from schools for the purposes of education and school improvement only, and only for those purposes necessary to provide the service explicitly offered to schools
 
-* Adhere strictly to the terms of the Data Protection Act 1998 and any future amendments or applicable legislation, including legislation arising from the General Data Protection Regulation (GDPR)
+* Adhere strictly to the terms of the General Data Protection Regulation (GDPR) as it applies in the UK, tailored by the Data Protection Act 2018
 
 * Only store and process the minimum data required to provide our services
 
@@ -80,7 +80,7 @@ We take every reasonable measure to ensure we store data securely. The Assembly 
 
 * We use encrypted passwords with variable permissions according to the user’s role for access to all sensitive information
 
-* All servers are situated in secure locations that comply with the Data Protection Act 1998 and any ensuing laws or regulations including the General Data Protection Regulation (GDPR)
+* All servers are situated in secure locations within the EEA, that comply with the General Data Protection Regulation (GDPR) and the Data Protection Act 2018.
 
 __4. Staff access to data__
 
